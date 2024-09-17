@@ -18,4 +18,4 @@ This repository contains a Power BI dashboard created for Task 01 of my Data Sci
 2. Open it using Power BI Desktop to explore the interactive visualizations.
 
 ## 🤝 Connect with Me
-[LinkedIn: Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-amine-zouaghi-500210225/)
+[LinkedIn: Mohamed Amine Zouaghi](https://www.linkedin.com/in/mohamed-amine-zouaghi-500210225/)
