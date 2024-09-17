@@ -1,29 +1,21 @@
-📊 Task 01 - Power BI Dashboard
-Prodigy InfoTech Data Science Internship
+# 🛍️ Customer Data Dashboard - Power BI | Prodigy InfoTech Data Science Internship
 
-🚀 Overview
-This project showcases a Power BI dashboard analyzing customer data. The dashboard helps visualize key business metrics such as sales, customer demographics, and behavior. It includes:
+## 📋 Project Overview
+This repository contains a Power BI dashboard created for Task 01 of my Data Science internship at Prodigy InfoTech. The dashboard provides insights into customer data, including total sales, demographics, and purchasing behavior across various dimensions.
 
-🛍️ Total Sales and Number of Customers
+## 📂 Repository Contents
+- **Task_01_PowerBI_Dashboard.pbix**: The main Power BI dashboard file, which includes all the data visualizations and insights.
+- **prodigy_DS_01__PowerBI_Dashboard.pdf**: A PDF report summarizing the analysis and key findings from the Power BI dashboard.
 
-👤 Customer Demographics: Age, Gender, Subscription Status
+## 📊 Key Insights
+- **Sales by Gender**: Male customers contributed 67% of total sales, while female customers contributed 33%.
+- **Top Product Categories**: Clothing and Footwear were the highest-selling categories.
+- **Location Analysis**: The majority of customers were from the United States, driving the most sales.
+- **Payment Methods**: Credit cards were the most commonly used payment method, followed by PayPal.
 
-🛒 Sales by Product Category
+## 💻 How to Use the Dashboard
+1. Download the `Task_01_PowerBI_Dashboard.pbix` file.
+2. Open it using Power BI Desktop to explore the interactive visualizations.
 
-💳 Payment Methods and 📦 Shipping Types
-
-📂 Dataset
-The dashboard is built using an Excel dataset, which includes the following key fields:
-
-Customer Info: Age, Gender, Subscription Status
-Sales Info: Items Purchased, Purchase Amount (USD), Product Category
-Additional Metrics: Payment Method, Shipping Type, Review Ratings
-
-🔍 Key Insights
-
-👥 Total Customers: 3,900
-
-💵 Total Sales: $233,000
-
-🛠️ Tools Used
-Power BI: For interactive dashboard creation and data visualization.
+## 🤝 Connect with Me
+[LinkedIn: Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-amine-zouaghi-500210225/)
