@@ -11,7 +11,6 @@ This repository contains a Power BI dashboard created for Task 01 of my Data Sci
 - **Sales by Gender**: Male customers contributed 67% of total sales, while female customers contributed 33%.
 - **Top Product Categories**: Clothing and Footwear were the highest-selling categories.
 - **Location Analysis**: The majority of customers were from the United States, driving the most sales.
-- **Payment Methods**: Credit cards were the most commonly used payment method, followed by PayPal.
 
 ## 💻 How to Use the Dashboard
 1. Download the `Task_01_PowerBI_Dashboard.pbix` file.
